@@ -1,0 +1,75 @@
+/* 
+  Localizables.strings
+  bootcamp
+
+  Created by Camila Storck on 22/11/2022.
+  
+*/
+
+// MARK: - Investment
+
+"Investments.Title" = "Mis inversiones";
+"Investments.Button.Title" = "Crear Plazo Fijo";
+
+// MARK: - New Fixed Term
+
+"NewFixedTerm.Title" = "Monto de Plazo Fijo";
+"NewFixedTerm.Currency" = "$";
+"NewFixedTerm.Amount.Placeholder" = "0";
+"NewFixedTerm.Button.Title" = "Elegir fecha de finalización";
+
+// MARK: - New Term Details
+
+"NewTermDetails.Title" = "Seleccionar una opción";
+"NewTermDetails.Button.Title" = "Elegir";
+"NewTermDetails.Date.Title" = "Otra fecha";
+"NewTermDetails.Date.Subtitle" = "Límite 28 feb. 2023";
+
+// MARK: - New Term Confirmation
+
+"NewTermConfirmation.Title" = "Resumen de Plazo Fijo";
+"NewTermConfirmation.Collect" = "A COBRAR";
+"NewTermConfirmation.Start.Title" = "INICIO";
+"NewTermConfirmation.End.Title" = "TERMINA";
+"NewTermConfirmation.Invested.Title" = "INVERTIDO";
+"NewTermConfirmation.Interest.Title" = "INTERÉS GANADO";
+"NewTermConfirmation.TNA.Title" = "TNA";
+"NewTermConfirmation.Confirm.Title" = "Deslizar para confirmar";
+"NewTermConfirmation.Cancel.Title" = "CANCELAR SIMULACIÓN";
+
+// MARK: - Details Cell
+
+"Details.Cell.Recieve" = "Recibís";
+"Details.Cell.End" = "Finaliza ";
+
+// MARK: - Fixed Term Time
+
+"Time.min" = "1 mes";
+"Time.medium" = "3 meses";
+"Time.max" = "1 año";
+
+// MARK: - Fixed Term Cell
+
+"FixedTerm.Cell.Capital" = "Capital a Recibir";
+"FixedTerm.Cell.Interest" = "Interés anual";
+"FixedTerm.Cell.End" = "Finaliza";
+
+// MARK: - Investment Segmented Control
+
+"Investment.Dolares" = "DÓLARES";
+"Investment.TimeDeposit" = "PLAZOS FIJOS";
+
+// MARK: - New Time Deposit Segmented Control
+
+"New.Pesos" = "PESOS";
+"New.Dolares" = "DÓLARES";
+"New.Uvas" = "UVAS";
+
+// MARK: - Errors
+
+"APIError.InvalidURL" = "La URL no es válida";
+"APIError.FailedRequest" = "Falló la petición";
+"APIError.FailedDataResponse" = "No se encontró información en la respuesta";
+"APIError.FailedToDecode" = "No se pudo decodificar la información";
+
+"InvalidAmount.Message" = "El monto mínimo a invertir es de $ 500";
